@@ -1,6 +1,8 @@
 public class PrintShapeName extends Shape{
 
 
+
+
     public static void main(String[] args) {
 
         Shape quad = new Quad();
