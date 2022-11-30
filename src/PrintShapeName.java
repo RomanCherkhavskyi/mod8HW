@@ -1,7 +1,4 @@
-public class PrintShapeName extends Shape{
-
-
-
+public class PrintShapeName {
 
     public static void main(String[] args) {
 
